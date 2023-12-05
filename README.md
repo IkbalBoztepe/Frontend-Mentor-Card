@@ -2,6 +2,8 @@
 
 ![Design preview for the Stats preview card component coding challenge](./design/desktop-preview.jpg)
 
+This is the Github Page Link:
+https://ikbalboztepe.github.io/Frontend-Mentor-Card/
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
